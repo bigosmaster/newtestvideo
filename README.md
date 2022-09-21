@@ -12,5 +12,5 @@
 
 <img src="https://res.cloudinary.com/dkxixe3yr/image/upload/v1663784612/shareed/gif/ezgif-2-3785896aa6_beg1du.gif" width="250" height="250"/>
 
-<img src="https://github.com/Voyz/voyz_public/blob/master/databay_promo_vidA_gif_A03.gif" alt="Databay showcase gif" title="Databay showcase gif" width="500"/>
+<img src="https://github.com/thedevmian/shareed_frontend/blob/main/public/static/images/home.gif" alt="Databay showcase gif" title="Databay showcase gif" width="500"/>
 
