@@ -14,3 +14,4 @@
 
 <img src="https://github.com/thedevmian/shareed_frontend/blob/main/public/static/images/home.gif" alt="Databay showcase gif" title="Databay showcase gif" width="500"/>
 
+![](https://github.com/thedevmian/shareed_frontend/blob/main/public/static/images/home.gif)
